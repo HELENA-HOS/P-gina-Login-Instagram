@@ -8,7 +8,7 @@ Tecnologias usadas nesse projeto:
 - CSS
 - HTML
 
-<a href="https://hardcore-keller-e84881.netlify.app/"><h2>Clique para visualizar projeto</h2></a>
+<a href="https://hardcore-keller-e84881.netlify.app/" target="_blank"><h2>Clique para visualizar projeto</h2></a>
 
-<img alt="Login Instagram" target="_blank" src="https://github.com/HELENA-HOS/Pagina-Login-Instagram/blob/master/Login-Instagram.JPG" >
+<img alt="Login Instagram"  src="https://github.com/HELENA-HOS/Pagina-Login-Instagram/blob/master/Login-Instagram.JPG" >
 
